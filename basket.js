@@ -53,6 +53,22 @@ var giocatori = [
     perc_tiri2 : 0,
     perc_tiri3 : 0,
   },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
 ];
 
 
@@ -73,14 +89,14 @@ console.log(giocatori);
 // document.getElementById('text').innerHTML = giocatori[0];
 
 
+var code = prompt('Inserisci il codice giocatore')
+var scelto = []
 for (var i = 0; i < giocatori.length; i++) {
-  var codi = ''
-  // var code = prompt('Inserisci il codice giocatore')
-  if (gioc.codice = codi) {
-    // console.log(gioc.codice);
-  } else {
-    //non fa nulla
+  var gioc = giocatori[i];
+  if (code == gioc['codice']) {
+    // domanda: perche se li inverto non funziona? 
+    // scelto.push(gioc)
+    console.log(gioc);
   }
 }
-
-console.log(gioc);
+// console.log(scelto);
