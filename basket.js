@@ -69,18 +69,260 @@ var giocatori = [
     perc_tiri2 : 0,
     perc_tiri3 : 0,
   },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
+  {
+    'codice' : '',
+    punti : 0,
+    rimbalzi : 0,
+    falli : 0,
+    perc_tiri2 : 0,
+    perc_tiri3 : 0,
+  },
 ];
-
 
 
 for (var i = 0; i < giocatori.length; i++) {
   var gioc = giocatori[i];
   gioc.codice = code_generator();
-  gioc.punti = random_int_number(0, 30);
+  gioc.punti = random_int_number(0, 60);
   gioc.rimbalzi = random_int_number(0, 50);
   gioc.falli = random_int_number(0, 20);
-  // gioc.perc_tiri2 = ;
-  // gioc.perc_tiri3 = ;
+
+
+  var tiri2 = (gioc.punti - random_int_number(0, gioc.punti)) / 2;
+  var tiri3 = (gioc.punti - tiri2*2) / 3;
+  gioc.perc_tiri2 = Math.ceil((tiri2/(gioc.punti/2)) * 100) + '%';
+  gioc.perc_tiri3 = Math.floor((tiri3/(gioc.punti/3)) * 100) + '%';
+
+
+  console.log(tiri2 + ' tiri2, ' + i);
+  console.log(tiri3 + ' tiri3, ' + i);
+  console.log(gioc.perc_tiri2 + ' % tiri2, ' + i);
+  console.log(gioc.perc_tiri3 + ' % tiri3, ' + i);
+
 
 }
 
@@ -94,7 +336,7 @@ var scelto = []
 for (var i = 0; i < giocatori.length; i++) {
   var gioc = giocatori[i];
   if (code == gioc['codice']) {
-    // domanda: perche se li inverto non funziona? 
+    // domanda: perche se qua sopra inverto la disuguaglianza non funziona?perche il doppio uguale?
     // scelto.push(gioc)
     console.log(gioc);
   }
