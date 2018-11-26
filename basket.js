@@ -25,7 +25,9 @@ function code_generator(n) {
   var numbers = [1,2,3,4,5,6,7,8,9,0];
   var arr = [];
   for (var i = 0; i < (n/2); i++) {
-    arr.push(letters[random_int_number(0, letters.length - 1)])
+    var pos = letters[random_int_number(0, letters.length - 1)]
+    var res = pos.toUpperCase(pos);
+    arr.push(res)
   }
   for (var i = 3; i < n; i++) {
     arr.push(numbers[random_int_number(0, numbers.length - 1)])
@@ -65,10 +67,11 @@ for (var i = 0; i < 100; i++) {
   gioc.perc_tiri3 = cifre_decimali((tiri3/(gioc.punti/3)) * 100) + '%';
 
 
-  console.log(tiri2 + ' tiri2, ' + i);
-  console.log(tiri3 + ' tiri3, ' + i);
-  console.log(gioc.perc_tiri2 + ' % tiri2, ' + i);
-  console.log(gioc.perc_tiri3 + ' % tiri3, ' + i);
+  // console.log(tiri2 + ' tiri2, ' + i);
+  // console.log(tiri3 + ' tiri3, ' + i);
+  // console.log(gioc.perc_tiri2 + ' % tiri2, ' + i);
+  // console.log(gioc.perc_tiri3 + ' % tiri3, ' + i);
+  console.log(gioc.codice);
 
   giocatori.push(gioc)
 }
@@ -82,7 +85,7 @@ var code = prompt('Inserisci il codice giocatore')
 // var scelto = []
 for (var i = 0; i < giocatori.length; i++) {
   var gioc = giocatori[i];
-  if (code == gioc['codice']) {
+  if (code == gioc['codice'] || code == gioc['codice'].toLowerCase()) {
     // domanda: perche se qua sopra inverto la disuguaglianza non funziona?perche il doppio uguale?
     // scelto.push(gioc)
     console.log(gioc);
