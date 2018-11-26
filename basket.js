@@ -88,7 +88,14 @@ for (var i = 0; i < giocatori.length; i++) {
   if (code == gioc['codice'] || code == gioc['codice'].toLowerCase()) {
     // domanda: perche se qua sopra inverto la disuguaglianza non funziona?perche il doppio uguale?
     // scelto.push(gioc)
-    console.log(gioc);
+    var mioGioc = gioc;
+    console.log(mioGioc);
   }
 }
 // console.log(scelto);
+
+//se voglio scrivere nella mia pagina un oggetto devo per forza usare un forin
+for (var key in mioGioc) {
+  // document.getElementById('text').innerHTML = key + ': ' + mioGioc[key] + '<br>';
+  document.writeln(key + ': ' + mioGioc[key] + '<br>');
+}
