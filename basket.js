@@ -86,7 +86,6 @@ var code = prompt('Inserisci il codice giocatore')
 for (var i = 0; i < giocatori.length; i++) {
   var gioc = giocatori[i];
   if (code == gioc['codice'] || code == gioc['codice'].toLowerCase()) {
-    // domanda: perche se qua sopra inverto la disuguaglianza non funziona?perche il doppio uguale?
     // scelto.push(gioc)
     var mioGioc = gioc;
     console.log(mioGioc);
